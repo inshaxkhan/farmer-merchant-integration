@@ -20,9 +20,14 @@ webapp/: Static and JSP content (adminzone, CSS, JS, images)
 WEB-INF, META-INF: Deployment and config structure
 
 # 🛠️ Technologies Used
-Backend: Java (Servlets, JSP)
-Frontend: HTML, CSS, JS
-Build Tool: Maven (pom.xml)
-IDE: NetBeans
-SMS API: For real-time farmer notifications 
-Database: MySQL 
+### Backend: Java (Servlets, JSP)
+### Frontend: HTML, CSS, JS
+### Build Tool: Maven (pom.xml)
+### IDE: NetBeans
+### SMS API: For real-time farmer notifications 
+### Database: MySQL 
+
+# 🧾 Use Case
+This system facilitates better communication and data management between:
+### Farmers looking to cold storage availability for storing their produce, needs, or inquiries.
+### Merchants or administrators who monitor the backend system for leads, contact information, or feedback.

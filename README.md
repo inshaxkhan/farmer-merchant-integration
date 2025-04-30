@@ -1,3 +1,5 @@
+## I had build this project in AUGUST 2023, 2 years back, as a part of my summer training in Softpro, India
+
 # 🌾 Farmer-Merchant Integration System (FMI)
 This web-based project was developed as part of a Summer Training Program in 2023 at Softpro India, aimed at digitizing the interaction between farmers and merchants. The application provides an intuitive interface for farmers to register, connect with merchants, and receive instant SMS updates upon form submissions, helping bridge the gap between rural producers and urban markets.
 
